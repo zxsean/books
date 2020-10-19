@@ -464,7 +464,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| 天安门血腥清场内幕 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [https://docs.google.com/document/d/1oa1eXcbW4cU1bwiMnhH5p05hoeY7gMAtDBS3QJFcTbE/ 简介]
+| 天安门血腥清场内幕 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 繁體PDF || 2012-05-25 || [https://docs.google.com/document/d/1oa1eXcbW4cU1bwiMnhH5p05hoeY7gMAtDBS3QJFcTbE/ 简介]
 |-
 | 人民不会忘记<br>——八九民运实录 || People Will Not Forget<br>——A Chronicle by 64 Hong Kong Reporters || [https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E8%A8%98%E8%80%85%E5%8D%94%E6%9C%83 香港记者协会] || 繁體HTML<br>[http://1989report.hkja.org.hk/site/portal/site.aspx 繁體WEB] || 2019-04-03<br>N/A || [https://docs.google.com/document/d/1MM1WDl1CzbRLc7ioU_xYuLW3zyMGv7PduLM6Pjo2iVo/ 简介]
 |-
@@ -476,7 +476,9 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 历史的大爆炸<br>——六四事件全景实录 || The Big Bang of History<br>——June Fourth Movement Record || 张万舒 (原名：张清海) || 繁體PDF(掃描版) || 2017-04-29 || [https://docs.google.com/document/d/116NfvgxihQSKm0CI-56NWbKqIeg6iJXridMTOrsutoA/ 简介]
 |-
-| 八九天安门事件大事记 || N/A || [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/ 简介]
+| 六四内部日记 || N/A || 陆超祺 || 繁體PDF(掃描版) || 2020-08-12 || [https://docs.google.com/document/d/107Qnig0APL1l1roGOI6OmrVfVnkX0EJOtsLiNNH3Otk/ 简介]
+|-
+| 八九天安门事件大事记 || N/A || (中/美) [https://zh.wikipedia.org/wiki/%E5%90%B4%E4%BB%81%E5%8D%8E 吴仁华] || 简体PDF || 2012-05-25 || [https://docs.google.com/document/d/1iLO5UEQrwbcGuVX8XNSd4_ObipD3cbEWhmhPYai-8l8/ 简介]
 |-
 | 广场活碑<br>——一个香港女记者眼中的六四血光 || N/A || 蔡淑芳 || 繁體PDF<br>繁體TXT || 2014-05-23<br>2019-06-04 || [https://docs.google.com/document/d/1sk4QwOQ7Aqm3DlE07TnZDnrG6MtHibmlFpr754bHLAU/ 简介]
 |-
@@ -504,7 +506,7 @@ BT Sync 密钥：BRSSYZTSAC6UGYTUOJ22L4GCO7QESPPBD （此密钥的使用方法�
 |-
 | 六四诗集 || N/A || (多人) || 简体PDF || 2014-05-23 || [https://docs.google.com/document/d/1S06xVawpvJPWiQmgZEhHhW2mNPOeM2d-9bHfdvOl6VA/ 简介]
 |-
-| 关键时刻<br>——李鹏日记 || The Critical Moment<br>——Li Peng Diaries || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] (原名：李远芃) || 简体CHM || 2012-04-05 || [https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/ 简介]
+| 关键时刻<br>——李鹏日记 || The Critical Moment<br>——Li Peng Diaries || [https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%B9%8F 李鹏] (原名：李远芃) || 简体PDF<br>简体CHM || 2020-08-12<br>2012-04-05 || [https://docs.google.com/document/d/10OYz280lJqqFL1ZIyqqMPx7eT3xrCBiqA4uD9HiwAJ4/ 简介]
 |-
 | 惊心动魄的五十六天 || N/A || 国家教委思想政治工作司 || [http://www.64memo.com/b5/2.htm 繁體WEB] || N/A || [https://docs.google.com/document/d/1YvDrb5SvM7WLCmqpsq4IyCO2GgIFLiJOTe5p-j9yMMI/ 简介]
 |-
@@ -2711,9 +2713,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C 程序设计语言 || The C Programming Language<br>''知名缩写：''TCPL || (加) [https://en.wikipedia.org/wiki/Brian_Kernighan Brian Kernighan]<br>(美) [https://en.wikipedia.org/wiki/Dennis_Ritchie Dennis Ritchie] || 简体PDF(第2版)<br>英文PDF(第2版)<br>英文EPUB(第2版) || 2017-08-08<br>2015-11-07<br>2015-07-21 || [https://docs.google.com/document/d/18ubS_r5REXR8e5MDQDBdN-MWl0wCWBkr7rs-lX3BBDg/ 简介]
 |-
-| The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFCGNbyyEWRhy4UimHJXrVQ/ 简介]
+| C Primer Plus || C Primer Plus || (美) Stephen Prata || 简体EPUB(第6版)<br>英文PDF(第5版) || 2020-07-09<br>2020-07-09 || [https://docs.google.com/document/d/1WV4MGyFpUIgeVxgmLGRf-fa14tzQt5CZLF6GDiVsmUY/ 简介]
 |-
 | C 陷阱与缺陷 || C Traps and Pitfalls || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig] || 简体PDF(扫描版)<br>英文PDF || 2015-11-15<br>2015-11-07 || [https://docs.google.com/document/d/1nUcAsOdLiswaG7SRNuLK6exkSxwXTfl0cLnRl2hF4jU/ 简介]
+|-
+| The GNU C Programming Tutorial || The GNU C Programming Tutorial || (英) [https://en.wikipedia.org/wiki/Mark_Burgess_(computer_scientist) Mark Burgess] || 英文PDF<br>[http://crasseux.com/books/ctutorial/ 英文WEB] || 2016-12-21<br>N/A || [https://docs.google.com/document/d/1g7DLsW7MogZeBwd6YkihUFCGNbyyEWRhy4UimHJXrVQ/ 简介]
 |-
 | 21世纪 C 语言技巧 || 21st Century C<br>——C Tips from the New School || Ben Klemens || 英文EPUB || 2015-07-21 || [https://docs.google.com/document/d/1pheEFHj257LzVUdHTmOjB-3b6PbvwsPut_4ChPWmdBg/ 简介]
 |}
@@ -2725,6 +2729,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 程序设计语言 || The C++ Programming Language<br>''知名缩写：''TCPPPL || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 英文PDF(第4版)<br>英文PDF(特别版)<br>简体PDF(特别版 扫描版) || 2020-04-08<br>2013-10-21<br>2013-10-29 || [https://docs.google.com/document/d/15-B8PhKWCm-IKY2VHcoFqv3ml8vwOzl8LNxGq3yM7TM/ 简介]
 |-
+| Accelerated C++ || Accelerated C++<br>——Practical Programming by Example || (美) [https://en.wikipedia.org/wiki/Andrew_Koenig_(programmer) Andrew Koenig]<br>(美) [https://en.wikipedia.org/wiki/Barbara_E._Moo Barbara Moo] || 简体PDF(扫描版) || 2020-07-09 || [https://docs.google.com/document/d/1YQr4QsB2wViPiNexmh8EeZucfNWK7TJDQ5uIk8viUKg/ 简介]
+|-
 | Effective C++<br>——改善程序与设计的55个具体做法 || Effective C++<br>——55 Specific Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF(第3版)<br>英文CHM(第3版) || 2018-08-04<br>2013-10-21 || [https://docs.google.com/document/d/1dAfpdaDr2XzfWXEQP6SvvnOGdKHIhlyeqY8h8SZjSlQ/ 简介]
 |-
 | More Effective C++<br>——35个改善编程与设计的有效方法 || More Effective C++<br>——35 New Ways to Improve Your Programs and Designs || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF<br>简体PDF || 2013-10-21<br>2015-05-12 || [https://docs.google.com/document/d/1FbkfLkbJUKC1mJzvQVXVSjDlqw6D69jmeeOfAvAfFcg/ 简介]
@@ -2732,6 +2738,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 | Effective Modern C++<br>——改善 C++11 和 C++14 的42个具体做法 || Effective Modern C++<br>——42 Specific Ways to Improve Your Use of C++11 and C++14 || (美) [https://en.wikipedia.org/wiki/Scott_Meyers Scott Meyers] || 英文PDF || 2018-08-04 || [https://docs.google.com/document/d/1ZWyX6iZDzv7q1_jaeBnn7pJSmgx73v8iWNU7d0nkibE/ 简介]
 |-
 | C++ 编程规范<br>——101 条规则、准则与最佳实践 || C++ Coding Standards<br>——101 Rules, Guidelines, and Best Practices || (美) [https://en.wikipedia.org/wiki/Herb_Sutter Herb Sutter]<br>(美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 英文CHM || 2013-10-20 || [https://docs.google.com/document/d/1Xb8ClhfptVBCOFW_o-arAaFS9ej1UV_bNQwS34zbDjk/ 简介]
+|-
+| C++ 必知必会 || C++ Gotchas<br>——Avoiding Common Problems in Coding and Design || (美) Stephen Dewhurst || 英文CHM || 2015-11-05 || [https://docs.google.com/document/d/19saiLIUY3fyxE7mLn3VroHPGtENZN2h-CjU1h1LNSQE/ 简介]
 |-
 | C++ Primer Plus || C++ Primer Plus || (美) Stephen Prata || 英文PDF(第5版) || 2018-09-11 || [https://docs.google.com/document/d/15RBGxTxxcMXJMxzIboVMWF_SNhLDxw6oArlZuDUxxbE/ 简介]
 |-
@@ -2747,11 +2755,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | C++ 设计新思维<br>——泛型编程与设计模式之应用 || Modern C++ Design<br>——Generic Programming and Design Patterns Applied || (美) [https://en.wikipedia.org/wiki/Andrei_Alexandrescu Andrei Alexandrescu] || 简体PDF(扫描版)<br>英文PDF<br>英文CHM<br>英文MOBI || 2015-11-08<br>2018-08-04<br>2016-12-21<br>2018-08-04 || [https://docs.google.com/document/d/1gzE7F5InN-QNRQKMZEoiPV6nD6ZevmJdtd-iVjc4sQM/ 简介]
 |-
-| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 英文EPUB(第2版)<br>英文EPUB(第1版)<br>英文CHM(第1版) || 2018-11-11<br>2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
+| C++ Templates 全览 || C++ Templates<br>——The Complete Guide || (比利时) David Vandevoorde<br>(德) Nicolai Josuttis || 简体PDF(第1版 扫描版)<br>英文EPUB(第2版)<br>英文EPUB(第1版)<br>英文CHM(第1版) || 2020-07-09<br>2018-11-11<br>2018-08-04<br>2015-05-12 || [https://docs.google.com/document/d/14GtU9lNDJ5DhLBL_0dp4NRB4L9iC_LryRW88TtTdBD0/ 简介]
+|-
+| C++ 模板元编程 || C++ Template Metaprogramming<br>——Concepts, Tools and Techniques from Boost and Beyond || (美) [https://en.wikipedia.org/wiki/David_Abrahams_(computer_programmer) David Abrahams]<br>(美) Aleksey Gurtovoy || 简体PDF(扫描版) || 2020-07-09 || [https://docs.google.com/document/d/1oN0JNogDZiwcsZye-q_HrSAAPYOPuXn2aSrRh7Niaw8/ 简介]
 |-
 | C++ 语言的设计和演化 || The Design and Evolution of C++ || (丹麦) [https://en.wikipedia.org/wiki/Bjarne_Stroustrup Bjarne Stroustrup] || 简体PDF(扫描版)<br>英文PDF || 2013-10-25<br>2018-08-04 || [https://docs.google.com/document/d/1PjNgmFg7HHtNC_Ha-RH7-ztm6im3KQi_yoMj_Q9N_fM/ 简介]
-|-
-| C++ 必知必会 || C++ Gotchas<br>——Avoiding Common Problems in Coding and Design || (美) Stephen Dewhurst || 英文CHM || 2015-11-05 || [https://docs.google.com/document/d/19saiLIUY3fyxE7mLn3VroHPGtENZN2h-CjU1h1LNSQE/ 简介]
 |-
 | STL 源码剖析 || The Annotated STL Sources || [https://zh.wikipedia.org/wiki/%E4%BE%AF%E4%BF%8A%E5%82%91_%28%E4%BD%9C%E5%AE%B6%29 侯捷] (原名：侯俊杰) || 简体PDF(扫描版) || 2015-11-05 || [https://docs.google.com/document/d/1psASyz7FdAB4bHrW40jsCmRJczdbmPbLwDI0P1QR_zc/ 简介]
 |-
@@ -2903,6 +2911,8 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | 编程珠玑 || Programming Pearls || (美) [https://en.wikipedia.org/wiki/Jon_Bentley_(computer_scientist) Jon Bentley] || 英文PDF(第2版)<br>简体PDF(第2版 扫描版) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1i1Z_GkpYMcw6YcHQms7hPVYb06NRpJDqx9tlluPsOjc/ 简介]
 |-
+| 算法心得<br>——高效算法的奥秘 || Hacker's Delight || (美) Henry Warren Jr. || 英文PDF(第1版 大字版) || 2020-07-09 || [https://docs.google.com/document/d/18-DM-W45jHDf4RRJ-BxeTVv64dGuSF8KfTqALna_YHw/ 简介]
+|-
 | 数学之美 || Beauty of Mathematics || [https://zh.wikipedia.org/wiki/%E5%90%B4%E5%86%9B_%28Google%29 吴军] || 简体PDF(第1版)<br>简体TXT(第1版) || 2018-10-29<br>2016-05-15 || [https://docs.google.com/document/d/161QsDsZUGSFL4gfw65mUpmnG-XUszzdzOTXVwpFG9jg/ 简介]
 |}
 
@@ -2955,11 +2965,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| UNIX 网络编程 || UNIX Network Programming<br>''知名缩写：''UNP || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 英文PDF(卷1 第3版)<br>英文CHM(卷1 第3版)<br>英文PDF(卷2 第2版) || 2019-08-17<br>2013-10-20<br>2019-08-17 || [https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/ 简介]
+| UNIX 网络编程<br><br>''包括如下：''<br>第1卷 套接字联网 API<br>第2卷 进程间通讯 || UNIX Network Programming<br>''知名缩写：''UNP<br><br>''包括如下：''<br>Volume 1 The Sockets Networking API<br>Volume 2 Interprocess Communications || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 英文PDF(共2卷)<br>英文CHM(共2卷 缺第2卷)<br>英文DJVU(共2卷 扫描版) || 2019-08-17<br>2013-10-20<br>2020-07-09 || [https://docs.google.com/document/d/1eB4BLE9PDXDfrb-ioXNfrHlOthMqUe0MXs8PmRsm3Os/ 简介]
 |-
 | ZeroMQ || ZeroMQ<br>——Use ZeroMQ and Learn How to Apply Different Message Patterns || Faruk Akgul || 英文PDF || 2018-07-02 || [https://docs.google.com/document/d/1cKZuh8U-mdrGNqMLVsgmIq1El-qoN_hj79GqfB-B9kE/ 简介]
 |-
-| C++ 网络编程 || C++ Network Programming || (美) [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 英文CHM(卷1)<br>英文CHM(卷2) || 2013-10-21<br>2013-10-21 || [https://docs.google.com/document/d/1-_EWftyk3_hVKNs1_cuKrEnK4QxSO0qPeeemj9I7bsM/ 简介]
+| C++ 网络编程<br><br>''包括如下：''<br>第1卷 运用 ACE 和模式消除复杂性<br>第2卷 基于 ACE 和框架的系统化复用 || C++ Network Programming<br><br>''包括如下：''<br>Volume 1 Mastering Complexity with ACE and Patterns<br>Volume 2 Systematic Reuse with ACE and Frameworks || (美) [https://en.wikipedia.org/wiki/Douglas_C._Schmidt Douglas Schmidt] || 英文CHM(共2卷) || 2013-10-21 || [https://docs.google.com/document/d/1-_EWftyk3_hVKNs1_cuKrEnK4QxSO0qPeeemj9I7bsM/ 简介]
 |}
 
 ==== 10.1.7.2 Python ====
@@ -3079,9 +3089,11 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Windows 7 安全指南 || N/A || N/A || 简体PDF(扫描版) || 2014-02-13 || [https://docs.google.com/document/d/13_WDM8wucXtFkrBxpUw4j5BGBr_eqJrFnKLhNu6LdhI/ 简介]
 |-
-| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17)<br>[https://www.debian.org/doc/manuals/securing-debian-howto/ 英文WEB] || 2015-07-21<br>N/A || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
+| Debian 官方安全手册 || Securing Debian Manual || N/A || 英文PDF(文档版本3.17)<br>[https://www.debian.org/doc/manuals/securing-debian-manual/ 英文WEB] || 2015-07-21<br>N/A || [https://docs.google.com/document/d/1LpRNda9Dsy47r1GGREpRyfNLdZ8Hs8NiDjT8uJid8CA/ 简介]
 |-
-| RHEL 官方安全手册 || Red Hat Enterprise Linux Security Guide || N/A || 英文PDF(RHEL7)<br>英文PDF(RHEL6) || 2018-10-30<br>2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
+| Fedora 官方 wiki 安全特性 || Security Features || N/A || [https://fedoraproject.org/wiki/Security_Features 英文WEB] || N/A || N/A
+|-
+| RHEL 官方安全手册 || Red Hat Enterprise Linux Security Guide<br>''其它英文名：''<br>Red Hat Enterprise Linux Security Hardening || N/A || 英文PDF(RHEL8)<br>英文PDF(RHEL7)<br>英文PDF(RHEL6) || 2020-07-09<br>2018-10-30<br>2014-02-22 || [https://docs.google.com/document/d/1H_lMwYly38ofWZ2Ik7yWay0b5GM3TZbQ374eJ867O9s/ 简介]
 |-
 | CentOS 官方安全指南 || OS Protection || N/A || [https://wiki.centos.org/HowTos/OS_Protection 英文WEB] || N/A || N/A
 |-
@@ -3091,9 +3103,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 |-
 | Arch Linux 官方安全手册 || Security<br>——Recommendations and Best Practices for Hardening an Arch Linux System || N/A || [https://wiki.archlinux.org/index.php/security 英文WEB] || N/A || N/A
 |-
-| Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://www.gentoo.org/doc/en/security/security-handbook.xml?style=printable&full=1 英文WEB] || N/A || N/A
-|-
-| Fedora 官方 wiki 安全特性 || Security Features || N/A || [https://fedoraproject.org/wiki/Security_Features 英文WEB] || N/A || N/A
+| Gentoo 官方安全手册 || Gentoo Security Handbook || N/A || [https://wiki.gentoo.org/wiki/Security_Handbook 英文WEB] || N/A || N/A
 |}
 
 === 10.3.4 入侵与渗透测试 ===
@@ -3233,7 +3243,7 @@ BT Sync 密钥：BUPSDXFA3TP7KCMLHALRHLIX2FEJEUJFE （此密钥的使用方法�
 {|
 ! 中文书名 !! 英文书名 !! 作者 !! 文件类型 !! 上传日期 !! 备注
 |-
-| TCP-IP 详解 || TCP-IP Illustrated || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 英文CHM(卷1)<br>简体PDF(卷1)<br>简体PDF(卷2)<br>简体PDF(卷3) || 2013-10-21<br>2013-10-21<br>2013-10-26<br>2013-10-26 || [https://docs.google.com/document/d/1Fw2wSr-MgNm1d_M6F-rF1t_n3LwFWWBHrJt6vcYGta4/ 简介]
+| TCP-IP 详解<br><br>''包括如下：''<br>第1卷 协议<br>第2卷 实现<br>第3卷 TCP 事务协议，HTTP，NNTP 和 UNIX 域协议 || TCP-IP Illustrated<br><br>''包括如下：''<br>Volume 1 The Protocols<br>Volume 2 The Implementation<br>Volume 3 TCP for Transactions, HTTP, NNTP and the UNIX Domain Protocols || (美) [https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF Richard Stevens] || 简体PDF(共3卷)<br>英文CHM(共3卷 缺第3卷) || 2013-10-26<br>2020-07-09 || [https://docs.google.com/document/d/1Fw2wSr-MgNm1d_M6F-rF1t_n3LwFWWBHrJt6vcYGta4/ 简介]
 |-
 | HTTP 权威指南 || HTTP<br>——The Definitive Guide || David Gourley<br>Brian Totty<br>Marjorie Sayer<br>Sailu Reddy<br>Anshu Aggarwal || 简体PDF(扫描版)<br>英文PDF || 2018-06-28<br>2018-11-09 || [https://docs.google.com/document/d/1TgujhFUzyVlf1W5e48lSMTIwJuCTElvXw2LgQ_Ng0Cs/ 简介]
 |}
